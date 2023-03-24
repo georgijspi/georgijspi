@@ -2,4 +2,4 @@
 - 👀 I’m interested in game design, back end computing of all sorts, database management and computer hardware.
 - 🌱 I’m currently learning sorting algorithms and data structures within Python, C and Java.
 - 💞️ I’m looking to collaborate on anything really, hit me up and we can discuss!
-- 📫 You can reach me on my personal email georgep.hl3@gmail.com, or through Telegram @georgijspi.
+- 📫 You can reach me on my personal email georgijs.pitkevics2@mail.dcu.ie
