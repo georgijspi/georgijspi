@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Georgijs Pitkevics. Welcome to my github!
-- 👀 I’m interested in fullstack (primarily backend), custom keyboards and computer hardware.
-- 🌱 I’m currently learning about Flask and HTMX, and explorind the idea of creating no-JS websites/web applications.
+- 👋 Hi, my name is Georgijs Pitkevics. Welcome to my GitHub!
+- 👀 I’m interested in full-stack (primarily backend), custom keyboards, and computer hardware.
+- 🌱 I’m currently learning about Flask and Langchain, and exploring the idea of creating no-JS websites/web applications.
 - 💞️ I’m looking to collaborate on anything really, hit me up and we can discuss!
 - 📫 You can reach me on my personal email georgijs.pitkevics2@mail.dcu.ie
