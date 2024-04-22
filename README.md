@@ -4,6 +4,7 @@
 <p align="right"> 
 	<img src="https://komarev.com/ghpvc/?username=georgijspi&label=Profile%20views&color=0047AB&style=plastic" alt="georgijspi" height="25px" width="160px"/> 
 </p>
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgijspi&show_icons=true&theme=radical)
 
 ## About Me 🌱
