@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
 
 # Hi there, I'm Georgijs! 👋
-<p align="right"> 
+<p align="right" justify-content="center"> 
 	<img src="https://komarev.com/ghpvc/?username=georgijspi&label=Profile%20views&color=0047AB&style=plastic" alt="georgijspi" height="25px" width="160px"/> 
 </p>
 
