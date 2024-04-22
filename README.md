@@ -1,9 +1,6 @@
 <div style="display: flex; align-items: center;">
 
-<img src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs" alt="Banner" width="300"/>
-
 <div>
-
 # Hi there, I'm Georgijs! 👋
 
 ## About Me 🌱
@@ -17,7 +14,10 @@ I'm an aspiring Software Engineer with experience in Content Moderation with a p
 📫 How to reach me: georgijs.pit@gmail.com<br>
 
 </div>
+
+<img src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs" alt="Banner" width="300"/>
 </div>
+
 
 ---
 
