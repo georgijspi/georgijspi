@@ -8,7 +8,6 @@
 <picture> <img align="right" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs" width = 250px></picture>
 </div>
 
-<br><br>
 🔭 I’m currently working on TableTango.<br>
 🌱 I’m currently learning React and MongoDB.<br>
 👯 I enjoy going to Hackathons, so hit me up if you want to team up!<br>
@@ -50,5 +49,6 @@
 
 ## Connect with Me 🌐
 
+[Portfolio](https://georgijs.dev)<br>
 [LinkedIn](https://www.linkedin.com/in/georgijs-pitkevics-86b5701a4/)<br>
 [AnimeList Profile](https://myanimelist.net/animelist/SlavShinobi)
