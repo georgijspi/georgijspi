@@ -1,11 +1,13 @@
 <div style="display: flex; align-items: center;">
 
 # Hi there, I'm Georgijs! 👋
-<p align="right" justify-content="center"> 
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=georgijspi&label=Profile%20views&color=0047AB&style=plastic" alt="georgijspi" height="25px" width="160px"/> 
 </p>
 
+<div align="center">
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgijspi&show_icons=true&theme=radical)
+</div>
 
 ## About Me 🌱
 <picture> <img align="right" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs" width = 250px></picture>
