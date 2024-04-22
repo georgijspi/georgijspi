@@ -5,6 +5,7 @@
 ![Banner](https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs)
 
 ## About Me 🌱
+
 I'm an aspiring Software Engineer with experience in Content Moderation with a passion for all things AI and coding! I love working on projects that challenge me and allow me to express my creativity.
 
 🔭 I’m currently working on ChatSQL.<br>
@@ -13,22 +14,36 @@ I'm an aspiring Software Engineer with experience in Content Moderation with a p
 💬 Ask me about Flask, Python, OpenAI API, LangChain.<br>
 📫 How to reach me: georgijs.pit@gmail.com<br>
 
+---
+
 ## My GitHub Stats 📈
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgijspi&show_icons=true&theme=radical)
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=georgijspi&label=Profile%20views&color=0047AB&style=plastic" alt="georgijspi" height="25px" width="160px"/> 
+</p>
+
+---
 
 ## Favorite Anime 👾
+
 **Claymore** - One of the most underrated Anime and it happened to be one of the first that I watched.<br>
 **Initial D** - Wonderful car-themed anime which piqued my interest in the JDM scene. Not to mention a top-tier soundtrack.<br>
 **Fuuka** - A real tear-jerker slice of life which follows in the steps of the classic romance anime, Suzuka.<br>
 
+---
+
 ## Languages and Tools 🛠️
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-content: center;">
+  <img height="50" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png">
+  <img height="50" src="https://api.nuget.org/v3-flatcontainer/langchain.sources.pdf/0.12.3-dev.91/icon">
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgijspi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="50" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png">
-<img height="50" src="https://api.nuget.org/v3-flatcontainer/langchain.sources.pdf/0.12.3-dev.91/icon">
+---
 
 ## Connect with Me 🌐
 
