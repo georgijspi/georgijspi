@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
 
-<div>
+<div style="flex: 1;">
 # Hi there, I'm Georgijs! 👋
 
 ## About Me 🌱
