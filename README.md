@@ -16,8 +16,8 @@
 <picture> <img align="right" src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif" width = 250px></picture>
 </div>
 
-🔭 I’m currently working on TableTango.<br>
-🌱 I’m currently learning React and MongoDB.<br>
+🔭 I’m currently working on a personal AI Assistant.<br>
+🌱 I’m currently learning LLM and ML practices.<br>
 👯 I enjoy going to Hackathons, so hit me up if you want to team up!<br>
 💬 Ask me about Flask, Python, OpenAI API, LangChain.<br>
 📫 How to reach me: georgijs.pit@gmail.com<br>
