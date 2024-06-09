@@ -13,7 +13,7 @@
 </p>
 
 ## About Me 🌱
-<picture> <img align="right" src="https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs" width = 250px></picture>
+<picture> <img align="right" src="[https://media.licdn.com/dms/image/D5612AQF9PrLjyxavrQ/article-cover_image-shrink_720_1280/0/1682664185850?e=1715212800&v=beta&t=2ycV9ddSHIhC8iYSvZ0yvSSRh2KZv4HimB-IzlKLfGs](https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif)" width = 250px></picture>
 </div>
 
 🔭 I’m currently working on TableTango.<br>
