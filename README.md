@@ -28,9 +28,9 @@
 
 ## Favorite Anime 👾
 
-**Claymore** - One of the most underrated Anime and it happened to be one of the first that I watched.<br>
-**Initial D** - Wonderful car-themed anime which piqued my interest in the JDM scene. Not to mention a top-tier soundtrack.<br>
-**Fuuka** - A real tear-jerker slice of life which follows in the steps of the classic romance anime, Suzuka.<br>
+**Claymore** - Highlu underrated and it happened to be one of the first that I watched.<br>
+**Initial D** - All things JDM. Top-tier soundtrack too.<br>
+**Fuuka** - Battle of the ~~Bands~~ Romance. Follows in the steps of the classic romance anime, Suzuka.<br>
 
 ---
 
