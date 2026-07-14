@@ -14,13 +14,4 @@
 <picture> <img align="right" src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif" width = 250px></picture>
 
 <br>
-
----
-
-## Favorite Anime 👾
-
-**Claymore** - Highlu underrated and it happened to be one of the first that I watched.<br>
-**Initial D** - All things JDM. Top-tier soundtrack too.<br>
-**Fuuka** - Battle of the ~~Bands~~ Romance. Follows in the steps of the classic romance anime, Suzuka.<br>
-
 ---
