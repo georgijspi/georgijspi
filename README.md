@@ -14,6 +14,6 @@
 <br clear="both" />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=georgijspi&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=georgijspi&layout=compact&theme=radical&langs_count=8" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=georgijspi&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgijspi&layout=compact&theme=radical&langs_count=8" alt="Top languages" height="170" />
 </p>
